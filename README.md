@@ -1,6 +1,7 @@
-# README
+# Sub Zero
 
-README for VSCode dark theme extension "sub-zero"
+A simple VSCode dark color theme inspired by sub zero from mortal kombat
+
 
 ![](https://github.com/gouravthakur39/sub-zero/blob/master/theme-showcase-1.png)
 
