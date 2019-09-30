@@ -8,7 +8,7 @@
 		"url": "https://github.com/gouravthakur39/sub-zero"
 	},
     "icon": "icon.png",
-    "author": "Gourav thakur",
+    "publisher": "Gourav thakur",
     "engines": {
         "vscode": "^1.38.0"
     },
