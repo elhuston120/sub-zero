@@ -8,6 +8,6 @@ A simple VSCode dark color theme inspired by sub zero from mortal kombat
 ![screenshot](theme-showcase-2.png)
 
 
-![Gourav Thakur](https://gouravthakur.com)
+[Gourav thakur](https://gouravthakur.com "Publisher's website")
 
 **Enjoy!**
