@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.2]
+
+- Add screenshots
+
 ## [1.0.1]
 
 - Updated README.md
