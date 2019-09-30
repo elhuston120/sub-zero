@@ -2,7 +2,7 @@
     "name": "sub-zero",
     "displayName": "sub zero",
     "description": "A simple VSCode extension inspired by sub zero from mortal kombat",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/gouravthakur39/sub-zero"

@@ -1,5 +1,10 @@
 # Change Log
 
+
+## [1.0.3]
+
+- Add author's website
+
 ## [1.0.2]
 
 - Add screenshots
